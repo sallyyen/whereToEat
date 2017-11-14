@@ -8,7 +8,9 @@ Wednesday 12/6
 
 ## Timeline ##
 * Part 1 (Tuesday, November 14th): Setup - Import CocoaPods and create relevant files to structure out code
-* Part 2 (Sunday, November 25th): Create working prototype with all basic functionality (ignore design/aesthetic for now)
+* Part 2: Create working prototype with all basic functionality (ignore design/aesthetic for now)
+- Part 2A (Tuesday, November 21st): Finish Search Part of App (yelp functionality)
+- Part 2B (Sunday November 25th): Finish History Part of App (persist data)
 * Part 3 (Sunday, Decemer 3rd): Add in pretty shit and figure out how to make the "wheel" work on the last page
 
 DEBUG
