@@ -63,15 +63,31 @@
 		63058B331FBA938F00EBAD17 /* whereToEat */ = {
 			isa = PBXGroup;
 			children = (
+				633771901FBAE3BA00FCB8A6 /* View Controllers */,
+				6337718F1FBAE3AC00FCB8A6 /* Model */,
 				63058B341FBA938F00EBAD17 /* AppDelegate.swift */,
-				63058B361FBA938F00EBAD17 /* FirstViewController.swift */,
-				63058B381FBA938F00EBAD17 /* SecondViewController.swift */,
 				63058B3A1FBA938F00EBAD17 /* Main.storyboard */,
 				63058B3D1FBA938F00EBAD17 /* Assets.xcassets */,
 				63058B3F1FBA938F00EBAD17 /* LaunchScreen.storyboard */,
 				63058B421FBA938F00EBAD17 /* Info.plist */,
 			);
 			path = whereToEat;
+			sourceTree = "<group>";
+		};
+		6337718F1FBAE3AC00FCB8A6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		633771901FBAE3BA00FCB8A6 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				63058B361FBA938F00EBAD17 /* FirstViewController.swift */,
+				63058B381FBA938F00EBAD17 /* SecondViewController.swift */,
+			);
+			path = "View Controllers";
 			sourceTree = "<group>";
 		};
 		E1657ABDECD6A2A015D1E19C /* Frameworks */ = {
